@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background:	rgba(255, 255, 255, 0.8);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 15pxt
+}
+p {
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding: 0.5px;
+    text-align:center;
+    margin-top: 5px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 300px;
+    margin: 25px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 9px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"], input[type="password"] {
+    width: 95%;
+    padding: 5px;
+    border: 2px solid #000000;
+    border-radius: 50px;
+    margin-top: center;
+}
+
+button {
+    width: 25%;
+    position: center;
+    padding: 14px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-top: 15px
+    
+}
+
+button:hover {
+    background: #0056b3;
+    position: center;
+}
+#footer {
+    text-align: center;
+    margin-top: 70px;
+    font-size: 12px;
+    color: #f7f1f1;
+  }

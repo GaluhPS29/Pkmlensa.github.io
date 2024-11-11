@@ -1,0 +1,7 @@
+body {
+    background-image: url('Bg\ one.jpg'); /* Ganti dengan path gambar Anda */
+    background-color: #f0f0f0; /* Warna latar belakang cadangan */
+    background-size: cover; /* Mengatur gambar agar menutupi seluruh area */
+    background-position: center; /* Memusatkan gambar */
+    background-repeat: no-repeat; /* Mencegah gambar diulang */
+}
